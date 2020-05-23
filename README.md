@@ -1,5 +1,5 @@
 # kaggle-docker-with-mlflow
-Dockerfile and docker-compose.yml to create kaggle and mlflow environment
+Dockerfile and docker-compose.yml to create kaggle environment on your remote server which can be available mlflow.
 
 # How to build
 
