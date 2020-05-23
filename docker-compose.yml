@@ -23,7 +23,6 @@ services:
     working_dir: ${WORKING_DIR}
     depends_on:
       - jupyter
-      - postgresql
     ports:
       - "5000:5000"
     environment:
