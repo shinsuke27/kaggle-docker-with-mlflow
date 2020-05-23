@@ -1,5 +1,5 @@
-# kaggle-docker
-Dockerfile and docker-compose.yml to create kaggle env
+# kaggle-docker-with-mlflow
+Dockerfile and docker-compose.yml to create kaggle and mlflow environment
 
 ```
 $ vim ~/.kaggle/kaggle.json # put your kaggle.json
