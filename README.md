@@ -14,7 +14,7 @@ $ docker-compose up -d --build
 
 # How to connect Jupyter and MLflow
 
-ssh to your remote server
+SSH to your remote server with SSH port forwarding
 
 ```
 $ ssh YOUR_REMOTE_HOST -- -L 8080:localhost:8080 -L 5000:localhost:5000
