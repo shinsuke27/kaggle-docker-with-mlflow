@@ -1,4 +1,4 @@
 FROM gcr.io/kaggle-images/python:latest
 
 RUN mkdir -p /kaggle/working && \
-    conda install -y -c conda-forge mlflow
+    conda install -y -c conda-forge mlflow==1.9.1
